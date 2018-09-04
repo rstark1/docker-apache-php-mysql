@@ -1,4 +1,4 @@
-# DOCKER COMPOSE APACHE, PHP Y MSQL
+# DOCKER COMPOSE APACHE, PHP Y MYSQL
 [![APACHE](https://1.bp.blogspot.com/_Imxo-yyeh9o/SnyDN_gLGgI/AAAAAAAAApY/giBnadrbJKc/s320/entrada-sql-apache-php.jpg.png)](https://www.appserv.org/download/)
 
 
