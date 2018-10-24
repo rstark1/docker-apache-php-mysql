@@ -2,7 +2,7 @@
 [![APACHE](https://1.bp.blogspot.com/_Imxo-yyeh9o/SnyDN_gLGgI/AAAAAAAAApY/giBnadrbJKc/s320/entrada-sql-apache-php.jpg.png)](https://www.appserv.org/download/)
 
 
-Contenedores Docker para con Apache, PHP y MySQL por separado, incluyendo una base de datos vacia.
+Contenedores Docker con Apache, PHP y MySQL por separado, incluyendo una base de datos vacia.
 
 # Antes de Correr
 - Se debe tener instalado y configurado Docker Compose.
